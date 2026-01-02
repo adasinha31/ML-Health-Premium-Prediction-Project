@@ -1,0 +1,7 @@
+pandas == 2.3.0
+numpy == 2.2.6
+seaborn == 0.13.2
+matplotlib == 3.10.3
+scikit == 1.7.2
+joblib== 1.5.2
+xg boost== 3.1.1
